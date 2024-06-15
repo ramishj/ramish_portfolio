@@ -41,7 +41,7 @@ const HomeComponent: React.FC = () => {
                 <div className={`${styles.whiteBackground} ${styles.showBackground}`}>
                    {showImage && (
     <div className={styles.circleImage}>
-        <img src="https://i.ibb.co/7Qd186S/my-Potrait.png" alt="my-Potrait" border="0" />
+        <img src="https://i.ibb.co/7Qd186S/my-Potrait.png" alt="my-Potrait"  />
     </div>
 )}
 
